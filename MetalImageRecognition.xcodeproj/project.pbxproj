@@ -723,6 +723,7 @@
 				TargetAttributes = {
 					2E8111881CF927F500D4025C = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = H8B3UQ7T6E;
 						DevelopmentTeamName = "Apple Inc. - Core OS Plus Others";
 						ProvisioningStyle = Automatic;
 					};
@@ -1092,10 +1093,10 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = H8B3UQ7T6E;
 				INFOPLIST_FILE = MetalImageRecognition/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.MetalImageRecognition";
+				PRODUCT_BUNDLE_IDENTIFIER = com.korteco.MetalImageRecognition;
 				PRODUCT_NAME = "Image Recognition";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -1113,10 +1114,10 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = H8B3UQ7T6E;
 				INFOPLIST_FILE = MetalImageRecognition/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.MetalImageRecognition";
+				PRODUCT_BUNDLE_IDENTIFIER = com.korteco.MetalImageRecognition;
 				PRODUCT_NAME = "Image Recognition";
 				SWIFT_VERSION = 3.0;
 			};
